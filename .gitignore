@@ -1,0 +1,31 @@
+# Arquivos de sistema
+.DS_Store
+.vscode
+# Ambientes virtuais
+venv/
+
+# Arquivos de log
+*.log
+
+# Arquivos gerados automaticamente
+__pycache__/
+.pytest_cache
+*.pyc
+*.pyo
+
+# Arquivos temporários
+*.tmp
+*.swp
+*.swo
+*.~
+
+# arquivos de configuração específicos do ambiente
+.env
+*.pyc
+
+# diretórios de arquivos gerados automaticamente
+build/
+dist/
+*.egg-info/
+*.db
+*.sqlite3
